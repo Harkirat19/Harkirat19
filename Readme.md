@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Harkirat
+# 👋 Hi there! I'm <a href="https://github.com/Harkirat19">@Harkirat</a>
 
 I'm a Software Development student at **Seneca Polytechnic**, passionate about creating innovative software solutions.
 
@@ -20,10 +20,6 @@ I'm a Software Development student at **Seneca Polytechnic**, passionate about c
 - **Development Tools**: Beautiful Soup, VS Code, PyCharm, Docker
 - **Project Management**: Jira, Swimlane, Visual Paradigm
 - **Methodologies**: Agile, Scrum, Kanban, TDD (Test-Driven Development), XP (Extreme Programming)
-
-## ☁️ Cloud Platforms
-
-- Azure Fundamentals
 
 ## 💬 Let's Connect
 
